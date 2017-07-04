@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.yufeng.sealview.MainActivity">
+
+    <com.yufeng.sealview.lib.SealView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        app:seal_radius="100dp"
+        app:seal_textSize="20sp"
+        app:seal_textFirst="萌 宝 委 员 会 第 一 办 工 室"
+        app:seal_textSecond="100_323_112"
+        app:seal_rotate="30"
+        />
+
+
+</android.support.constraint.ConstraintLayout>

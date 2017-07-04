@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--private int radius;-->
+    <!--private int color;-->
+
+    <!--private int textSize;-->
+    <!--private String textFirst;-->
+    <!--private String textSecond;-->
+    <declare-styleable name="SealView">
+        <attr name="seal_radius" format="dimension"/>
+        <attr name="seal_color" format="color" />
+        <attr name="seal_textSize" format="dimension" />
+        <attr name="seal_textFirst" format="reference|string"/>
+        <attr name="seal_textSecond" format="reference|string" />
+        <attr name="seal_rotate" format="integer"/>
+    </declare-styleable>
+</resources>
