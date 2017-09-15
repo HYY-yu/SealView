@@ -12,7 +12,7 @@ APP截图:
 
 * 生成印章：
 --- 
-![ding](http://bmviso.img48.wal8.com/img48/17283098_20170826174610/150388503916.jpg)
+![ding](https://github.com/HYY-yu/SealView/blob/master/界面1.jpg)
  
 * 编辑印章：（雾化效果和透明效果更真实）
 --- 
