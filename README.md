@@ -16,7 +16,7 @@ APP截图:
  
 * 编辑印章：（雾化效果和透明效果更真实）
 --- 
-![ding](http://bmviso.img48.wal8.com/img48/17283098_20170826174610/150388541329.jpg)
+![ding](https://github.com/HYY-yu/SealView/blob/master/界面2.jpg)
 
 ## 应用下载地址：
 * [电脑下载](http://android.myapp.com/myapp/detail.htm?apkName=com.dream.yufeng.papapa)
@@ -24,4 +24,4 @@ APP截图:
 
 * 二维码
 --- 
-![ding](http://bmviso.img48.wal8.com/img48/17283098_20170826174610/150388405935.png)
+![ding](https://github.com/HYY-yu/SealView/blob/master/erweima.png)
